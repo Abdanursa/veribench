@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VeriBench</string>
+    <string name="tagline">The benchmark that shows its work</string>
+    <string name="run_benchmark">Run benchmark (~3 min)</string>
+    <string name="conditions_ok">✓ Conditions look good for a clean run</string>
+    <string name="progress_format">Test %1$d of %2$d — %3$s</string>
+    <string name="total_score">TOTAL SCORE</string>
+    <string name="validity_valid">✓ VALID — clean run, verified workloads</string>
+    <string name="validity_degraded">⚠ DEGRADED — results are real but conditions were not ideal:</string>
+    <string name="validity_invalid">✗ INVALID — workload verification failed:</string>
+    <string name="category_format">%1$s — %2$d</string>
+    <string name="share_json">Share full report (JSON)</string>
+    <string name="share_title">Share VeriBench report</string>
+</resources>
